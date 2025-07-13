@@ -18,4 +18,4 @@ This is a simple **console-based Hotel Management System** written in **C++**. I
 
 ---
 
-![Hotel Bill Management Demo]("C:\Users\Admin\Downloads\Sample2.png")
+![Hotel Bill Management Demo](Sample2.png)
