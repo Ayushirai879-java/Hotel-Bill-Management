@@ -17,3 +17,5 @@ This is a simple **console-based Hotel Management System** written in **C++**. I
 - 🎉 User-friendly terminal interface
 
 ---
+
+![Hotel Bill Management Demo]("C:\Users\Admin\Downloads\Sample2.png")
